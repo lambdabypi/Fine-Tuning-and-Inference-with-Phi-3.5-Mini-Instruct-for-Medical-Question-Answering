@@ -7,16 +7,16 @@ This document provides a detailed guide to fine-tuning and performing inference 
 
 ## Table of Contents
 1. [Data Analysis](#1-data-analysis)
-2. [Environment Setup](#environment-setup)
-3. [Dataset Preparation](#dataset-preparation)
-4. [Model Configuration](#model-configuration)
-5. [Training Parameters](#training-parameters)
-6. [Inference Workflow](#inference-workflow)
-7. [Hyperparameter Details](#hyperparameter-details)
-8. [Performance Metrics](#performance-metrics)
-9. [Zero Shot Inference](#zero-shot-inference)
-10. [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
-11. [Results](#results)
+2. [Environment Setup](#2-environment-setup)
+3. [Dataset Preparation](#3-dataset-preparation)
+4. [Model Configuration](#4-model-configuration)
+5. [Training Parameters](#5-training-parameters)
+6. [Inference Workflow](#6-inference-workflow)
+7. [Hyperparameter Details](#7-hyperparameter-details)
+8. [Performance Metrics](#8-performance-metrics)
+9. [Zero Shot Inference](#9-zero-shot-inference)
+10. [Common Issues and Troubleshooting](#10-common-issues-and-troubleshooting)
+11. [Results](#11-results)
 
 ---
 ## 1. Data Analysis
