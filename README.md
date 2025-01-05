@@ -19,7 +19,7 @@ This document provides a detailed guide to fine-tuning and performing inference 
 11. [Results](#results)
 
 ---
-# 1. Medical MCQ Dataset Exploratory Data Analysis
+## 1. Data Analysis
 
 [This](https://colab.research.google.com/drive/1ccu7-tVucHSCNGCX3Ay5tuaz4bHAWFqi) Jupyter notebook presents a comprehensive exploratory data analysis of the MedMCQA dataset, which contains medical multiple-choice questions. The analysis is aimed at preparing the data for fine-tuning multiple models for question answering tasks.
 
