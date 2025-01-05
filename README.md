@@ -1,5 +1,5 @@
 # Instruction Manual and Documentation for Fine-Tuning and Inference using Unsloth
-# IMPORTANT: Make sure to copy this folder to MyDrive before running any notebook. Copy only the All Files folder and not its parent. Code files contain the finetuning as well as zero shot methods. Data files contain the data used (MedMCQA). There is also a notebook for the Data Analysis.
+# IMPORTANT: Make sure to copy [this](https://drive.google.com/drive/folders/1BSz5kNeC1PksphRxHmTg4W9v1cODJnxC?usp=sharing) folder to MyDrive before running any notebook. Copy only the All Files folder and not its parent. Code files contain the finetuning as well as zero shot methods. Data files contain the data used (MedMCQA). There is also a notebook for the Data Analysis.
 ## Overview
 This document provides a detailed guide to fine-tuning and performing inference with the Unsloth framework. It covers the data analysis, installation process, dataset preparation, model setup, hyperparameter explanations, and testing methodology. The instructions are applicable across multiple notebooks, with specific differences highlighted per category.
 
