@@ -6,7 +6,7 @@ This document provides a detailed guide to fine-tuning and performing inference 
 ---
 
 ## Table of Contents
-1. [Data Analysis](#data-analysis)
+1. [Data Analysis](#1-data-analysis)
 2. [Environment Setup](#environment-setup)
 3. [Dataset Preparation](#dataset-preparation)
 4. [Model Configuration](#model-configuration)
